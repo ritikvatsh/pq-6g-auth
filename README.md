@@ -1,8 +1,11 @@
+
 # PQ-6G-Auth: Post-Quantum Authentication for 6G Networks
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Under%20Submission-blue)](https://github.com/ritikvatsh/pq-6g-auth)
-
+<a href="https://pq6g-auth-research.blogspot.com/2025/12/post-quantum-security-for-6g-networks.html">
+  <img src="https://img.shields.io/badge/Blog-Post-green.svg" alt="Blog Post">
+</a>
 ## 📄 Overview
 
 Research implementation for the paper:
@@ -18,6 +21,28 @@ Research implementation for the paper:
 **Contact**: 
 - Ritik Vats: ritikvatsh@gmail.com
 - Sagar Choudhary: itsagarit@gmail.com
+
+---
+## 📝 Blog Post: Detailed Explanation
+
+
+
+### 🌟 Want to understand this research in plain English?
+
+[![Read Blog Post](https://img.shields.io/badge/📖_Read_Full_Blog_Post-Click_Here-brightgreen?style=for-the-badge&logo=blogger)](https://pq6g-auth-research.blogspot.com/2025/12/post-quantum-security-for-6g-networks.html)
+
+**"Post-Quantum Security for 6G Networks: Achieving Sub-0.1 ms Authentication"**
+
+An in-depth, accessible explanation featuring:
+- 🎯 Why quantum computers threaten 6G security
+- 💡 How PQ-6G-Auth works (with visual diagrams)
+- 🌍 Real-world applications & impact
+- 📊 Performance breakdown & analysis
+- 💻 Step-by-step technical walkthrough
+
+*Perfect for students, researchers, and tech enthusiasts!*
+
+</div>
 
 ---
 
@@ -115,7 +140,7 @@ Result:      Session keys established in 82.3 μs
 ---
 
 ## 📊 Performance Summary
-
+### 🏆 Benchmark Results
 | Metric | PQ-6G-Auth | Naive ML-KEM | Improvement |
 |--------|------------|--------------|-------------|
 | **Mean Latency** | 82.3 μs | 2,100 μs | 96.1% ↓ |
@@ -131,6 +156,8 @@ Result:      Session keys established in 82.3 μs
 - **Sampling**: 16.4 μs (20.0%)
 - **Hashing**: 12.3 μs (15.0%)
 - **DLT Query**: 8.2 μs (10.0%)
+
+> 💡 **Want detailed explanations of these results?** Check out our [comprehensive blog post](https://pq6g-auth-research.blogspot.com/2025/12/post-quantum-security-for-6g-networks.html) for visual breakdowns and real-world context!
 
 ---
 
@@ -235,7 +262,18 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ## 👥 Authors
-
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/ritikvatsh.png" width="100px;" alt="Ritik Vats"/><br />
+<sub><b>Ritik Vats</b></sub><br />
+<sub>Student Researcher / Web Wrafter</sub><br />
+<a href="mailto:ritikvatsh@gmail.com">📧 Email</a> • 
+<a href="https://instagram.com/ritikvatsh">📱 Instagram</a>
+</td>
+<td align="center"> </table
+                     
+---
 ### **Ritik Vats** (Student)
 Department of Computer Science  
 Quantum University, Roorkee, Uttarakhand, India  
@@ -265,12 +303,22 @@ For questions, collaborations, or access to additional data:
 
 ## 🔗 Related Resources
 
-- [NIST Post-Quantum Cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography)
-- [3GPP Release 20 Specifications](https://www.3gpp.org/release-20)
-- [liboqs: Open Quantum Safe](https://github.com/open-quantum-safe/liboqs)
-- [ns-3 Network Simulator](https://www.nsnam.org/)
+
+
+### 📚 Essential Reading & Tools
+
+</div>
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **📝 PQ-6G-Auth Blog** | In-depth explanation for broader audience | [Read Blog](https://pq6g-auth-research.blogspot.com/2025/12/post-quantum-security-for-6g-networks.html) |
+| **NIST PQC** | Official post-quantum cryptography standards | [Visit](https://csrc.nist.gov/projects/post-quantum-cryptography) |
+| **3GPP Release 20** | 6G network specifications | [Visit](https://www.3gpp.org/release-20) |
+| **liboqs** | Open Quantum Safe library | [GitHub](https://github.com/open-quantum-safe/liboqs) |
+| **ns-3** | Network simulator | [Visit](https://www.nsnam.org/) |
 
 ---
+
 
 ## ⚠️ Important Notes
 
@@ -283,16 +331,33 @@ For questions, collaborations, or access to additional data:
 
 ## 📊 Project Statistics
 
+<div align="center">
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/ritikvatsh/pq-6g-auth)
 ![GitHub issues](https://img.shields.io/github/issues/ritikvatsh/pq-6g-auth)
 ![GitHub stars](https://img.shields.io/github/stars/ritikvatsh/pq-6g-auth)
+![GitHub forks](https://img.shields.io/github/forks/ritikvatsh/pq-6g-auth)
+![GitHub watchers](https://img.shields.io/github/watchers/ritikvatsh/pq-6g-auth)
+
+
+</div>
+
+---
+<div align="center">
+
+ ⭐ Star this repository if you find it useful!
+
+### 🔐 Securing the 6G Future with Quantum-Safe Cryptography
+
+[![Star on GitHub](https://img.shields.io/github/stars/ritikvatsh/pq-6g-auth?style=social)](https://github.com/ritikvatsh/pq-6g-auth/stargazers)
+[![Follow](https://img.shields.io/github/followers/ritikvatsh?style=social)](https://github.com/ritikvatsh)
+
+**Made with ❤️ by <a href="https://instagram.com/ritikvatsh">Ritik Vats</a> for PQ-6G-Auth Research presentation **
+
+</div>
 
 ---
 
-**⭐ Star this repository if you find it useful!**
-
----
-
-<p align="center">
-  <b>Securing the 6G Future with Quantum-Safe Cryptography</b>
-</p>
+<div align="center">
+<sub>Last Updated: December 2024 | License: MIT | Status: Under Peer Review</sub>
+</div>
